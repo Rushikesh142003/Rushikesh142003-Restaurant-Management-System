@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Restaurant Management System
 A Restaurant Management System is a desktop application developed using Java, MySQL, Swing, and JDBC. This application allows users to manage various aspects of a restaurant, including employee management, food ordering, billing, and table reservations. 
 Key Features:
@@ -7,10 +6,10 @@ Manage food items and their prices.
 Process customer orders and generate bills.
 Track table reservations and availability.
 Utilize a MySQL database for data storage and retrieval.
-=======
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world. Here are some guidelines to help you start writing Java code in Visual Studio Code.
 
 ## Folder Structure
 
